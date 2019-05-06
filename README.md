@@ -1,3 +1,7 @@
-#### Place where I host some very generic Terraform code
+### About
 
-TODO: Add more stuff and document it
+Place where I host my Terraform code for different providers.
+
+### TODO
+
+Add more stuff and document it
